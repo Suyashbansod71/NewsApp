@@ -1,2 +1,2 @@
 # React-Native-Expo-News-App
-Cryptocurrency news app in react native expo. 
+News app in react native expo. 
